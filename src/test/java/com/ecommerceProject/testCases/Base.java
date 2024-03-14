@@ -29,7 +29,6 @@ public class Base {
 	public String validPassword = read.getPassword();
 	
 	public WebDriver driver;
-	//public static Logger logger;
 	public Properties propData;
 	
 	public Base()
@@ -47,10 +46,6 @@ public class Base {
 			x.printStackTrace();
 		}
 	}
-	//setup
-	//@BeforeMethod
-	//BasicConfigurator.configure();
-    //PropertyConfigurator.configure("./src/main/resources/log4j2.properties");
 	
 	@Parameters("browser")
 	public WebDriver initializeBrowserAndOpenApplicationURL(String browserName)
@@ -79,8 +74,6 @@ public class Base {
 			}
 			break;
 			}
-		
-		//logger = LogManager.getLogger("ecommerceProject");
 		
 		driver.manage().window().maximize();
 		driver.get(baseURL);
