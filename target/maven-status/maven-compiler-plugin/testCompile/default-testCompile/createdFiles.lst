@@ -1,0 +1,12 @@
+com\ecommerceProject\pageObjects\RegistrationPage.class
+com\ecommerceProject\pageObjects\LoginPage.class
+com\ecommerceProject\testCases\Base.class
+com\ecommerceProject\pageObjects\AccountPage.class
+com\ecommerceProject\testCases\TC_Registration_functionality_ecomProj.class
+com\ecommerceProject\Utilities\MyListeners.class
+com\ecommerceProject\testCases\TC_Login_functionality_ecomProj.class
+com\ecommerceProject\pageObjects\HomePage.class
+com\ecommerceProject\pageObjects\SearchPage.class
+com\ecommerceProject\Utilities\ReadConfig.class
+com\ecommerceProject\testCases\TC_Search_functionality_ecomProj.class
+com\ecommerceProject\Utilities\MyExtentReporter.class

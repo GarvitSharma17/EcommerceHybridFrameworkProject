@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T12:33:48 IST" name="TutorialNinja Automation Suite" finished-at="2024-03-14T12:39:03 IST" duration-ms="314608">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T12:33:48 IST" name="Test1" finished-at="2024-03-14T12:39:03 IST" duration-ms="314608">
+      <class name="com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:33:49 IST" name="setup" finished-at="2024-03-14T12:34:11 IST" duration-ms="22523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="WithMandatoryFields()[pri:1, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:11 IST" name="WithMandatoryFields" finished-at="2024-03-14T12:34:14 IST" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:14 IST" name="tearDown" finished-at="2024-03-14T12:34:15 IST" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:15 IST" name="setup" finished-at="2024-03-14T12:34:32 IST" duration-ms="16516" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithAllFields()[pri:2, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:32 IST" name="registerWithAllFields" finished-at="2024-03-14T12:34:34 IST" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:34 IST" name="tearDown" finished-at="2024-03-14T12:34:35 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:34:35 IST" name="setup" finished-at="2024-03-14T12:36:26 IST" duration-ms="110724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithExistingDetails()[pri:3, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:36:26 IST" name="registerWithExistingDetails" finished-at="2024-03-14T12:36:31 IST" duration-ms="5010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithExistingDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:36:31 IST" name="tearDown" finished-at="2024-03-14T12:36:36 IST" duration-ms="5875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:36:36 IST" name="setup" finished-at="2024-03-14T12:36:55 IST" duration-ms="18249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithoutProvidingDetails()[pri:4, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:36:55 IST" name="registerWithoutProvidingDetails" finished-at="2024-03-14T12:36:55 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithoutProvidingDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj@1725dc0f]" started-at="2024-03-14T12:36:55 IST" name="tearDown" finished-at="2024-03-14T12:36:56 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerceProject.testCases.TC_Registration_functionality_ecomProj -->
+      <class name="com.ecommerceProject.testCases.TC_Login_functionality_ecomProj">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:36:56 IST" name="setup" finished-at="2024-03-14T12:37:06 IST" duration-ms="9693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidCredentials()[pri:1, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:06 IST" name="loginWithInvalidCredentials" finished-at="2024-03-14T12:37:07 IST" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:07 IST" name="tearDown" finished-at="2024-03-14T12:37:08 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:15 IST" name="setup" finished-at="2024-03-14T12:37:28 IST" duration-ms="12645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials(java.lang.String,java.lang.String)[pri:2, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:28 IST" name="loginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2024-03-14T12:37:30 IST" duration-ms="1768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hp.garvit.1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:30 IST" name="tearDown" finished-at="2024-03-14T12:37:30 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:30 IST" name="setup" finished-at="2024-03-14T12:37:44 IST" duration-ms="14089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials(java.lang.String,java.lang.String)[pri:2, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:44 IST" name="loginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2024-03-14T12:37:45 IST" duration-ms="1227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[garv33471@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:45 IST" name="tearDown" finished-at="2024-03-14T12:37:46 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:46 IST" name="setup" finished-at="2024-03-14T12:37:59 IST" duration-ms="13118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="browseBackAfterLogin()[pri:3, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:37:59 IST" name="browseBackAfterLogin" finished-at="2024-03-14T12:38:01 IST" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseBackAfterLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Login_functionality_ecomProj@40ef3420]" started-at="2024-03-14T12:38:01 IST" name="tearDown" finished-at="2024-03-14T12:38:01 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerceProject.testCases.TC_Login_functionality_ecomProj -->
+      <class name="com.ecommerceProject.testCases.TC_Search_functionality_ecomProj">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:01 IST" name="setup" finished-at="2024-03-14T12:38:15 IST" duration-ms="13900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithExistingName()[pri:1, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:15 IST" name="searchWithExistingName" finished-at="2024-03-14T12:38:17 IST" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithExistingName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:17 IST" name="tearDown" finished-at="2024-03-14T12:38:18 IST" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:18 IST" name="setup" finished-at="2024-03-14T12:38:27 IST" duration-ms="9380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithNonExistingName()[pri:2, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:27 IST" name="searchWithNonExistingName" finished-at="2024-03-14T12:38:28 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithNonExistingName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:28 IST" name="tearDown" finished-at="2024-03-14T12:38:29 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:29 IST" name="setup" finished-at="2024-03-14T12:38:37 IST" duration-ms="8646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithoutName()[pri:3, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:37 IST" name="searchWithoutName" finished-at="2024-03-14T12:38:38 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithoutName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:38 IST" name="tearDown" finished-at="2024-03-14T12:38:39 IST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:39 IST" name="setup" finished-at="2024-03-14T12:38:55 IST" duration-ms="15385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithCategory()[pri:4, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:38:55 IST" name="searchWithCategory" finished-at="2024-03-14T12:39:02 IST" duration-ms="7036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithCategory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerceProject.testCases.TC_Search_functionality_ecomProj@498d318c]" started-at="2024-03-14T12:39:02 IST" name="tearDown" finished-at="2024-03-14T12:39:03 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerceProject.testCases.TC_Search_functionality_ecomProj -->
+    </test> <!-- Test1 -->
+  </suite> <!-- TutorialNinja Automation Suite -->
+</testng-results>
