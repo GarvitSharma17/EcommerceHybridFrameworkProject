@@ -5,7 +5,8 @@ This is Selenium Hybrid framework developed using Page object Model style. It is
 # Web Application Used For Testing: 
 **https://tutorialsninja.com/demo/**
 
-# Test Cases can be found in : src/test/java/com/ecommerceProject/testCases
+# Test Cases can be found in : 
+src/test/java/com/ecommerceProject/testCases
 
 # Language Used : Java
 
