@@ -6,7 +6,7 @@ This is Selenium Hybrid framework developed using Page object Model style. It is
 **https://tutorialsninja.com/demo/**
 
 # Test Cases can be found in : 
-src/test/java/com/ecommerceProject/testCases
+https://github.com/GarvitSharma17/EcommerceHybridFrameworkProject/tree/master/src/test/java/com/ecommerceProject
 
 # Language Used : Java
 
